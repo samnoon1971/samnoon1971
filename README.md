@@ -1,4 +1,6 @@
 # S M Samnoon Abrar
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=FFFFFF&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/samnoon/)
+
 # {...} My Stack 💻🚀
 
 ```js
