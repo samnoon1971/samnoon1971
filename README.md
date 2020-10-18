@@ -1,7 +1,18 @@
-<p align="center">
-  <img src="https://gpvc.arturio.dev/samnoon1971" alt="profile views"> •  
-  
-  <a href="http://refreshmind365.blogspot.com//"><img src = "https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=ffffff&logo=blogger&logoColor=FC4F08"></a>
- </p>
- 
- 
+
+
+## {...} My Stack 💻🚀
+
+```js
+const myStacks = {
+  languages: ["C", "C++", "JavaScript", "Java", "Python",  "Assembly"],
+  technologies: {
+      frontEnd: ["Html", "CSS", "XML"],
+      frameWork: ["Android"],
+      dataBases: ["MySQL", "Oracle", "NoSQL"],
+      tools: ["VS Code", "Android Studio", "PyCharm", "IntelliJ IDEA", "CodeBlocks"],
+      VCS: ["Git"],
+      AI_Framework: ["Scikit-learn"],
+      MISC: ["Firebase"],
+  }
+};
+```
