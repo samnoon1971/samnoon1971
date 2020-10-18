@@ -1,7 +1,7 @@
-
+<p>
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" height= "250px">
 ## {...} My Stack 💻🚀
-
+</p>
 ```js
 const myStacks = {
   languages: ["C", "C++", "JavaScript", "Java", "Python",  "Assembly"],
