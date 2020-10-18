@@ -26,3 +26,5 @@ const myStacks = {
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samnoon1971&layout=compact)
 
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=samnoon1971&theme=onedark)](https://github.com/samnoon1971/github-profile-trophy)
