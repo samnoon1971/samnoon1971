@@ -16,9 +16,9 @@ const myStacks = {
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=samnoon1971&show_icons=true">
 </p>
-
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" height= "250px">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samnoon1971&layout=compact)
 [![trophy](https://github-profile-trophy.vercel.app/?username=samnoon1971)](https://github.com/samnoon1971/github-profile-trophy)
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" height= "250px">
+
 
