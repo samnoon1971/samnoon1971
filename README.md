@@ -16,3 +16,6 @@ const myStacks = {
   }
 };
 ```
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=samnoon1971&show_icons=true">
+</p>
