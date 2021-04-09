@@ -22,7 +22,7 @@
 
 ```js
 const myStacks = {
-  languages: ["C", "C++", "JavaScript", "Java", "Python",  "Assembly"],
+  languages: ["C", "C++", "JavaScript", "Java", "Python"],
   technologies: {
       frontEnd: ["Html", "CSS", "XML"],
       frameWork: ["Android"],
