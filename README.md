@@ -18,31 +18,41 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 <br>
-# {...} My Stack 💻🚀
-
-```js
-const myStacks = {
-  languages: ["C", "C++", "JavaScript", "Java", "Python"],
-  technologies: {
-      frontEnd: ["Html", "CSS", "XML"],
-      frameWork: ["Android"],
-      dataBases: ["MySQL", "Oracle", "NoSQL"],
-      tools: ["VS Code", "Android Studio", "PyCharm", "IntelliJ IDEA", "CodeBlocks"],
-      VCS: ["Git"],
-      AI_Framework: ["Scikit-learn"],
-      MISC: ["Firebase"],
-  }
-};
-```
 
 
+**Languages and Tools:**  
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=samnoon1971&show_icons=true">
-</p>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/java.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/javascript.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/html5.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/css3.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/sublimetext.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/pycharm.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samnoon1971&layout=compact)
+**Technology being learned**
+
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/react.svg"></code>
+
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/react.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/node-dot-js.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mongodb.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/typescript.svg"></code>
+
+**Favorite sites**
+
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/github.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/google.svg"></code>
+
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/codeforces.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/codechef.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/hackerrank.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackoverflow.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/youtube.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mdnwebdocs.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/freecodecamp.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/w3c.svg"></code>
 
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=samnoon1971&theme=onedark)](https://github.com/samnoon1971/github-profile-trophy)
