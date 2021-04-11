@@ -3,7 +3,8 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=FFFFFF&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/samnoon/)
 <a href="https://refreshmind365.blogspot.com/"><img src = "https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=ffffff&logo=blogger&logoColor=FC4F08"></a>
  </p>
- 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samnoon1971&label=Profile%20views&color=0e75b6&style=flat" alt="samnoon1971" /> </p>
+
 ### Languages and Tools:
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
