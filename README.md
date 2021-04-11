@@ -57,7 +57,7 @@
 
 
 <p>
- <img src="https://github-readme-stats.vercel.app/api?username=samnoon1971&show_icons=true">
+ <img src="https://github-readme-stats.vercel.app/api?username=samnoon1971&show_icons=true&include_all_commits=true">
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samnoon1971&layout=default)
