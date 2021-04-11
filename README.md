@@ -1,4 +1,4 @@
-# S M Samnoon Abrar
+### Hi there, I'm [Samnoon!](https://www.linkedin.com/in/samnoon) 👋
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:samnoonabrar@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=FFFFFF&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/samnoon/)
 <a href="https://refreshmind365.blogspot.com/"><img src = "https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=ffffff&logo=blogger&logoColor=FC4F08"></a>
@@ -52,5 +52,6 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mdnwebdocs.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/freecodecamp.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/w3c.svg"></code>
+
 
 
