@@ -65,3 +65,16 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=samnoon1971&theme=onedark)](https://github.com/samnoon1971/github-profile-trophy)
 
+
+
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left" style="background-color: #f2f2f2;">
+
+<a href="https://linkedin.com/in/samnoon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="samnoon" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/smabrar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="smabrar" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/samnoonabrar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="samnoonabrar" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/samnoon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="samnoon" height="30" width="40" /></a>
+</p>
+
