@@ -4,7 +4,7 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/samnoon1971?label=Github%20followers&style=for-the-badge">
   </a> <br> <br>
   <a href="https://github.com/samnoon1971" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=samnoon1971&label=Views&color=darkgreen&style=flat-square" alt="views on github" />
+    <img src="https://komarev.com/ghpvc/?username=samnoon1971&label=Views&color=green&style=flat-square" alt="views on github" />
   </a>
   </h3> 
       
