@@ -1,11 +1,13 @@
-### Hi there, I'm [Samnoon!](https://www.linkedin.com/in/samnoon) 👋 
-
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:samnoonabrar@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=FFFFFF&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/samnoon/)
-<a href="https://refreshmind365.blogspot.com/"><img src = "https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=ffffff&logo=blogger&logoColor=FC4F08"></a>
- </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=samnoon1971&label=Profile%20views&color=0e75b6&style=flat" alt="samnoon1971" /> </p>
-
+<h2 align="center"> Hi 👋 , I'm S M Samnoon Abrar <br/></h2> 
+<h3 align="center">Also known as "samnoon" to other people. <br> <br>
+  <a href="https://github.com/samnoon1971" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/samnoon1971?label=Github%20followers&style=for-the-badge">
+  </a> <br> <br>
+  <a href="https://github.com/samnoon1971" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=samnoon1971&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+  </a>
+  </h3> 
+      
 
 <h2 align="center">
 Technologies and Languages </h2>
