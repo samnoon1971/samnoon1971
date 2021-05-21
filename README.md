@@ -94,6 +94,8 @@ My Current Workstation Specification </h2>
 
 
 </div>
+
+<div align="center">
 <h3 align="center">Connect with me:</h3>
 
 <p align="center" style="background-color: #f2f2f2;">
@@ -104,3 +106,4 @@ My Current Workstation Specification </h2>
 <a href="https://codeforces.com/profile/samnoon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="samnoon" height="30" width="40" /></a>
 </p>
 
+</div>
