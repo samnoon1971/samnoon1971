@@ -93,9 +93,9 @@ My Current Workstation Specification </h2>
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 
-<p align="left" style="background-color: #f2f2f2;">
+<p align="center" style="background-color: #f2f2f2;">
 
 <a href="https://linkedin.com/in/samnoon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="samnoon" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/smabrar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="smabrar" height="30" width="40" /></a>
