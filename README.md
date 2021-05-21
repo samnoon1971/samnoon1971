@@ -81,6 +81,7 @@ My Current Workstation Specification </h2>
 
 
 </div>
+<div align="center">
 
 <p>
  <img src="https://github-readme-stats.vercel.app/api?username=samnoon1971&show_icons=true&count_private=true">
@@ -92,7 +93,7 @@ My Current Workstation Specification </h2>
 
 
 
-
+</div>
 <h3 align="center">Connect with me:</h3>
 
 <p align="center" style="background-color: #f2f2f2;">
