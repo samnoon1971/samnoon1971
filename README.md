@@ -1,3 +1,4 @@
+<div align="center">
 ### Hi there, I'm [Samnoon!](https://www.linkedin.com/in/samnoon) 👋
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:samnoonabrar@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=FFFFFF&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/samnoon/)
@@ -5,7 +6,7 @@
  </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=samnoon1971&label=Profile%20views&color=0e75b6&style=flat" alt="samnoon1971" /> </p>
 
-
+</div>
 
 
 <h2 align="center">
