@@ -57,6 +57,21 @@
 
 
 
+<h2 align="center">
+My Current Workstation Specification </h2>
+
+<div align="center">
+	
+
+![CPU](https://img.shields.io/badge/AMD-Ryzen_5_3500X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+<br> 
+	
+![GPU](https://img.shields.io/badge/NVIDIA_GTX_1050Ti-77ed1c?style=for-the-badge&logo=nvidia&logoColor=white) 
+
+
+
+</div>
+
 <p>
  <img src="https://github-readme-stats.vercel.app/api?username=samnoon1971&show_icons=true&count_private=true">
 </p>
