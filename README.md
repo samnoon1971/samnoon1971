@@ -10,9 +10,7 @@
  
 
   </h3> 
-<h2 align="center">
-  <img align='right' src="https://github.com/Elyabe/Elyabe/blob/master/images/portal-3.gif" width='200'>
-</h2>
+
 <h2 align="center">
 Technologies and Languages </h2>
 
@@ -112,3 +110,6 @@ Connect with me </h2>
 </p>
 
 </div>
+<h2 align="center">
+  <img align='right' src="https://github.com/Elyabe/Elyabe/blob/master/images/portal-3.gif" width='200'>
+</h2>
