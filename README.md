@@ -1,4 +1,5 @@
-<h2 align="center"> Hi 👋 , I'm S M Samnoon Abrar <br/></h2> 
+<h2 align="left"> Hi 👋 , I'm S M Samnoon Abrar <br/></h2> 
+<img align='right' src="https://github.com/Elyabe/Elyabe/blob/master/images/portal-3.gif" width='200'>
 <h3 align="center">Also known as "samnoon" to other people. <br> <br>
   <a href="https://github.com/samnoon1971" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/samnoon1971?label=Github%20followers&style=for-the-badge">
@@ -7,7 +8,7 @@
     <img src="https://komarev.com/ghpvc/?username=samnoon1971&label=Views&color=green&style=flat-square" alt="views on github" />
   </a>
 	
- <img align='center' src="https://github.com/Elyabe/Elyabe/blob/master/images/portal-3.gif" width='200'>
+ 
 
   </h3> 
       
