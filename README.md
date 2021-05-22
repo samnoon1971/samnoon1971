@@ -80,6 +80,8 @@ My Stats </h2>
   
   <img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
 
+  <img align="center" a href='https://archiveprogram.github.com/'><img src='https://github.com/acervenky/animated-github-badges/blob/master/assets/devbadge.gif' width='40' height='40'></a>
+
  ### ⚡ Fun fact about me: ✨ I love coding+learning+repeating✨ 
  
 
