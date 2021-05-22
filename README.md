@@ -8,6 +8,7 @@
   </a>
   </h3> 
       
+ <img align='left' src="https://raw.githubusercontent.com/Elyabe/Elyabe/master/images/rick-dancing.gif" width='200'>
 
 <h2 align="center">
 Technologies and Languages </h2>
