@@ -72,17 +72,13 @@ My Current Workstation Specification </h2>
 </div>
 
 
+## Github Badges :
+<a href="https://docs.github.com/en/developers" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/devbadge.gif" width="40" height="40"></a>  <a href="https://archiveprogram.github.com/" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/acbadge.gif" width="40" height="40"></a> 
+
 <h2 align="center">
 My Stats </h2>
 
 <div align="center">
-	
-  
-  <img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
-
-  <img align="center" a href='https://archiveprogram.github.com/'><img src='https://github.com/acervenky/animated-github-badges/blob/master/assets/devbadge.gif' width='40' height='40'></a>
-
- ### ⚡ Fun fact about me: ✨ I love coding+learning+repeating✨ 
  
 
 <p>
