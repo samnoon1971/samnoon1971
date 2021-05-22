@@ -76,6 +76,12 @@ My Current Workstation Specification </h2>
 My Stats </h2>
 
 <div align="center">
+	
+  
+  <img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
+
+ ### ⚡ Fun fact about me: ✨ I love coding+learning+repeating✨ 
+ 
 
 <p>
  <img src="https://github-readme-stats.vercel.app/api?username=samnoon1971&show_icons=true&count_private=true">
