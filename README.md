@@ -6,10 +6,11 @@
   <a href="https://github.com/samnoon1971" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=samnoon1971&label=Views&color=green&style=flat-square" alt="views on github" />
   </a>
+	
+ <img align='center' src="https://github.com/Elyabe/Elyabe/blob/master/images/portal-3.gif" width='200'>
+
   </h3> 
       
- <img align='left' src="https://raw.githubusercontent.com/Elyabe/Elyabe/master/images/rick-dancing.gif" width='200'>
-
 <h2 align="center">
 Technologies and Languages </h2>
 
