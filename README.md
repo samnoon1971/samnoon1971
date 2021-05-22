@@ -84,7 +84,7 @@ My Current Workstation Specification </h2>
 
 
 </div>
-
+<hr>
 <div align="center">
 <h3 align="center">Connect with me:</h3>
 
