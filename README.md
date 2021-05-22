@@ -68,7 +68,7 @@ My Current Workstation Specification </h2>
 	
 ![GPU](https://img.shields.io/badge/NVIDIA_GeForce_GTX_1050Ti-77ed1c?style=for-the-badge&logo=nvidia&logoColor=white) 
 
-
+<hr>
 
 </div>
 <div align="center">
