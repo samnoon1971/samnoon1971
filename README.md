@@ -111,5 +111,5 @@ Connect with me </h2>
 
 </div>
 <h2 align="center">
-  <img align='right' src="https://github.com/Elyabe/Elyabe/blob/master/images/portal-3.gif" width='200'>
+  <img align='center' src="https://github.com/Elyabe/Elyabe/blob/master/images/portal-3.gif" width='200'>
 </h2>
