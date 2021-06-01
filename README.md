@@ -54,6 +54,7 @@ My Current Workstation Specification </h2>
 | <img width="120px" src="https://it-edu.com/sites/default/files/codeforceslogo.png" /> <br />CF Rating |![](https://run.kaist.ac.kr/badges/codeforces/samnoon.svg)|
 
 <img width="35%" src="https://pruvi007-apis.herokuapp.com/CF/samnoon" />
+<img width="35%" src="https://pruvi007-apis.herokuapp.com/CC/smabrar" />
 
 
 
