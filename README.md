@@ -10,12 +10,13 @@
  
 
   </h3> 
-
-
-<div align="center">
-	<h2 align="center">
+  
+<h2 align="center">
  Languages, Frameworks and Tools
 	</h2>
+
+<div align="center">
+	
 {
     "language": [ ![C++](https://img.shields.io/badge/-c/c++-00599c?style=flat&logo=c%2B%2B), ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java), ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat&logo=python&logoColor=white), ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black), ![HTML5](https://img.shields.io/badge/-HTML5-ffffff?style=flat&logo=html5), ![CSS3](https://img.shields.io/badge/-CSS-1572b6?style=flat&logo=css3)],
     "framework" : [![React](https://img.shields.io/badge/-react-42e3f5?style=flat&logo=react&logoColor=white), ![express](https://img.shields.io/badge/-express-a8e827?style=flat&logo=express),
