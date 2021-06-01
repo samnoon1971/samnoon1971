@@ -51,7 +51,7 @@ My Current Workstation Specification </h2>
 | Competition Name| Achievements |
 | :----- | :----: |
 | <img width="120px" src="https://www.hmc.edu/about-hmc/wp-content/uploads/sites/2/2019/01/icpc19.png" /> <br /> ICPC | Dhaka Regionals <br /> Team: [BAIUST_RUNTIME_TERROR][icpc_2020] <br /> Rank: 114/190 |
-| <img width="120px" src="https://it-edu.com/sites/default/files/codeforceslogo.png" /> <br />CF Rating |![](https://run.kaist.ac.kr/badges/codeforces/samnoon.svg)|
+ <img width="120px" src="https://it-edu.com/sites/default/files/codeforceslogo.png" /> <br />CF Rating |![](https://run.kaist.ac.kr/badges/codeforces/samnoon.svg)|
 <img width="35%" src="https://pruvi007-apis.herokuapp.com/CF/samnoon" />
 
 
