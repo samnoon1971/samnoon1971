@@ -71,13 +71,13 @@ My Stats </h2>
 
 <div align="center">
  
-
+<!--
 <p>
  <img src="https://github-readme-stats.vercel.app/api?username=samnoon1971&show_icons=true&count_private=true">
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samnoon1971&layout=default)
-
+-->
 [![trophy](https://github-profile-trophy.vercel.app/?username=samnoon1971&theme=vue)](https://github.com/samnoon1971/github-profile-trophy)
 
 
