@@ -19,7 +19,7 @@
 	
 {
     "language": [ ![C++](https://img.shields.io/badge/-c/c++-00599c?style=flat&logo=c%2B%2B), ![php](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white), ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java), ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat&logo=python&logoColor=white), ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black), ![HTML5](https://img.shields.io/badge/-HTML5-ffffff?style=flat&logo=html5), ![CSS3](https://img.shields.io/badge/-CSS-1572b6?style=flat&logo=css3)],
-    "framework" : [![React](https://img.shields.io/badge/-react-42e3f5?style=flat&logo=react&logoColor=white), ![express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express),
+    "framework" : [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB), ![express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express),
     "database" : [![mysql](https://img.shields.io/badge/-MySQL-0770a8?style=flat&logo=MySQL), ![postgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)]
 	"version control" : [![Git](https://img.shields.io/badge/-Git-ffffff?style=flat&logo=Git), ![Git](https://img.shields.io/badge/-Github-000000?style=flat&logo=Github)]
 	 "tools" : [![vscode](https://img.shields.io/badge/-VSCode-007acc?style=flat&logo=visual-studio-code), ![intellijidea](https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=IntelliJ-IDEA), ![anaconda](https://img.shields.io/badge/-Anaconda-95ed72?style=flat&logo=Anaconda)
