@@ -26,8 +26,8 @@
     "database" : ![MySQL](https://img.shields.io/badge/-MySQL-0770a8?style=flat&logo=MySQL), ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql), ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white), <br/> 
 	"version control" : ![Git](https://img.shields.io/badge/-Git-ffffff?style=flat&logo=Git), ![GitHub](https://img.shields.io/badge/-Github-000000?style=flat&logo=Github), <br/>
 	 "tools" : ![VsCode](https://img.shields.io/badge/-VSCode-007acc?style=flat&logo=visual-studio-code), ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=IntelliJ-IDEA), ![Anaconda](https://img.shields.io/badge/-Anaconda-95ed72?style=flat&logo=Anaconda), <br/>
-	"testing" : ![Mocha.js](https://img.shields.io/badge/mocha.js-323330?style=flat&logo=mocha&logoColor=Brown),
-	![Chai.js](https://img.shields.io/badge/chai.js-323330?style=flat&logo=chai&logoColor=red)
+	"testing" : ![Mocha.js](https://img.shields.io/badge/-Mocha.js-323330?style=flat&logo=mocha&logoColor=Brown),
+	![Chai.js](https://img.shields.io/badge/-Chai.js-323330?style=flat&logo=chai&logoColor=red)
 	<br/>
 } 
 
