@@ -44,7 +44,7 @@ My Current Workstation Specification </h2>
 ![CPU](https://img.shields.io/badge/AMD-Ryzen_5_3500X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 <br> 
 	
-![GPU](https://img.shields.io/badge/NVIDIA-GTX_1050_TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white) 
+![GPU](https://img.shields.io/badge/NVIDIA-GeForce_GTX_1050_TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white) 
 
 
 </div>
