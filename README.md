@@ -41,6 +41,9 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 </div>
+<h2 align="center">
+  <img align='center' src="https://github.com/Elyabe/Elyabe/blob/master/images/portal-3.gif" width='200'>
+</h2>
 
 <h2 align="center">
 🖥️ My Current Workstation Specification </h2>
@@ -104,6 +107,3 @@
 </p>
 
 </div>
-<h2 align="center">
-  <img align='center' src="https://github.com/Elyabe/Elyabe/blob/master/images/portal-3.gif" width='200'>
-</h2>
