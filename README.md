@@ -33,17 +33,6 @@
 
 </div>
 
-<h2 align="center">
-✍️Random Dev Quote
-</h2>
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-</div>
-<h2 align="center">
-  <img align='center' src="https://github.com/Elyabe/Elyabe/blob/master/images/portal-3.gif" width='200'>
-</h2>
 
 <h2 align="center">
 🖥️ My Current Workstation Specification </h2>
@@ -82,6 +71,19 @@
 <img align="center" a href='https://archiveprogram.github.com/'><img src='https://github.com/acervenky/acervenky/blob/master/assets/devbadge.gif' width='40' height='40'></a>
   <img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
 </div>
+
+
+<h2 align="center">
+✍️Random Dev Quote
+</h2>
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+</div>
+<h2 align="center">
+  <img align='center' src="https://github.com/Elyabe/Elyabe/blob/master/images/portal-3.gif" width='200'>
+</h2>
 <h2 align="center">
 📈 My Stats </h2>
 
