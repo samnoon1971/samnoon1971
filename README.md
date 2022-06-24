@@ -13,7 +13,7 @@
   </h3> 
   
 <h2 align="center">
- Languages, Frameworks and Tools
+👨‍💻 Languages, Frameworks and Tools
 	</h2>
 
 <div align="center">
@@ -33,10 +33,17 @@
 
 </div>
 
+<h2 align="center">
+✍️Random Dev Quote
+</h2>
+<div align="center">
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+</div>
 
 <h2 align="center">
-My Current Workstation Specification </h2>
+🖥️ My Current Workstation Specification </h2>
 
 <div align="center">
 	
@@ -48,11 +55,10 @@ My Current Workstation Specification </h2>
 
 
 </div>
-
+<h2 align="center">
+⚔️ Competitive Programming
+</h2>
 <div align="center">
-
-
-## Competitive Programming
 
 | Competition Name| Achievements |
 | :----- | :----: |
@@ -63,16 +69,18 @@ My Current Workstation Specification </h2>
 
 
 </div>
+<h2 align="center">
 
+🏅 Github Badges
+</h2>
 
 <div align="center">
 
-## Github Badges :
 <img align="center" a href='https://archiveprogram.github.com/'><img src='https://github.com/acervenky/acervenky/blob/master/assets/devbadge.gif' width='40' height='40'></a>
   <img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
 </div>
 <h2 align="center">
-My Stats </h2>
+📈 My Stats </h2>
 
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=samnoon1971&show_icons=true&locale=en" alt="samnoon1971" />
@@ -83,7 +91,7 @@ My Stats </h2>
 </div>
 
 <h2 align="center">
-Connect with me </h2>
+🤝 Connect with me </h2>
 
 <div align="center">
 
