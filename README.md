@@ -14,6 +14,14 @@
   </h3> 
   
 <h2 align="center">
+✍️Random Dev Quote
+</h2>
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+</div>
+<h2 align="center">
 👨‍💻 Languages, Frameworks and Tools
 	</h2>
 
@@ -74,14 +82,6 @@
 </div>
 
 
-<h2 align="center">
-✍️Random Dev Quote
-</h2>
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-</div>
 <h2 align="center">
   <img align='center' src="https://github.com/Elyabe/Elyabe/blob/master/images/portal-3.gif" width='200'>
 </h2>
