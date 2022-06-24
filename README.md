@@ -1,6 +1,7 @@
 
 <h2 align="center"> Hi 👋 , I'm S M Samnoon Abrar <br/></h2> 
 <h3 align="center">Also known as "samnoon" to other people. <br> <br>
+
   <a href="https://github.com/samnoon1971" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/samnoon1971?label=Github%20followers&style=for-the-badge">
   </a> <br> <br>
@@ -109,3 +110,6 @@
 </p>
 
 </div>
+<h2 align="center">
+  <img align='center' src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width=60%>
+</h2>
