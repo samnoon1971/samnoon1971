@@ -103,5 +103,5 @@
 
 </div>
 <h2 align="center">
-  <img align='center' src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width=60%>
+  <img align='center' src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width=65%>
 </h2>
