@@ -37,7 +37,7 @@ I'm an enthusiastic Software Engineer and Problem Solver who was actively involv
 
 </div>
 <h2 align="center">
-💻 Tech Stack:	
+💻 Tech Stack
 </h2>
 
 <div align="center">
