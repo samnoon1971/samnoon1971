@@ -79,7 +79,7 @@ I'm an enthusiastic Software Engineer and Problem Solver who was actively involv
 
 
 <h2 align="center">
-📈 My Stats </h2>
+📈 My GitHub Stats </h2>
 
 <div align="center">
 
