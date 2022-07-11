@@ -71,7 +71,7 @@ I'm an enthusiastic Software Engineer and Problem Solver who was actively involv
  <img width="120px" src="https://codeforces.org/s/10391/images/codeforces-logo-with-telegram.png" /> <br />CF Rating |<img width="100%" src="https://pruvi007-apis.herokuapp.com/CF/samnoon" />
 
 
-
+[![Samnoons's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=samnoon&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
 
 </div>
 <h2 align="center">
