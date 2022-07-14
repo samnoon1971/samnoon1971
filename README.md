@@ -86,13 +86,14 @@ I'm an enthusiastic Software Engineer and Problem Solver who was actively involv
 
 ![](https://github-readme-stats.vercel.app/api?username=samnoon1971&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samnoon1971&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=samnoon1971&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samnoon1971&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samnoon1971&theme=nord_dark)  <br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samnoon1971&theme=nord_dark)
 
 </div>
 
 <h2 align="center">
-🤝 Connect with me </h2>
+🤝 CP Profiles </h2>
 
 <div align="center">
 
