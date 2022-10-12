@@ -36,6 +36,9 @@ I'm an enthusiastic Software Engineer and Problem Solver who was actively involv
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 </div>
+
+
+
 <h2 align="center">
 💻 Tech Stack
 </h2>
@@ -89,6 +92,7 @@ I'm an enthusiastic Software Engineer and Problem Solver who was actively involv
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samnoon1971&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samnoon1971&theme=nord_dark)  <br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samnoon1971&theme=nord_dark)
+[![@samnoon's Holopin board](https://holopin.me/samnoon)](https://holopin.io/@samnoon)
 
 </div>
 
