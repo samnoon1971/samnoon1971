@@ -81,11 +81,11 @@ I'm an enthusiastic Software Engineer and Problem Solver who was actively involv
 | Competition Name| Achievements |
 | :----- | :----: |
 | <img width="120px" src="https://www.hmc.edu/about-hmc/wp-content/uploads/sites/2/2019/01/icpc19.png" /> <br /> ICPC | Dhaka Regionals <br /> Team: [BAIUST_RUNTIME_TERROR][icpc_2019] <br /> Rank: 114/190 |
- <img width="120px" src="https://codeforces.org/s/10391/images/codeforces-logo-with-telegram.png" /> <br />CF Rating |<img width="100%" src="https://pruvi007-apis.herokuapp.com/CF/samnoon" />
-
 <!---Compititive Programming --->
-![](https://raw.githubusercontent.com/samnoon/codeforces-stats/main/output/max_rating.svg)
-![](https://raw.githubusercontent.com/samnoon/codeforces-stats/main/output/rating.svg)
+	
+
+![](https://raw.githubusercontent.com/samnoon1971/codeforces-stats/main/output/light_card.svg)
+<br>
 ![](https://leetcard.jacoblin.cool/samnoon?theme=nord&font=Karma&ext=contest)
 
 </div>
@@ -101,11 +101,6 @@ I'm an enthusiastic Software Engineer and Problem Solver who was actively involv
 
 ![](https://github-readme-stats.vercel.app/api?username=samnoon1971&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samnoon1971&theme=nightowl&hide_border=false)<br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samnoon1971&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samnoon1971&theme=nord_dark)  <br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samnoon1971&theme=nord_dark)
-[![@samnoon's Holopin board](https://holopin.me/samnoon)](https://holopin.io/@samnoon)
-
 </div>
 
 <h2 align="center">
@@ -122,9 +117,9 @@ I'm an enthusiastic Software Engineer and Problem Solver who was actively involv
 
 </div>
 <h2 align="center">
-  <img align='center' src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width=65%>
+  <img align='center' src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width=50%>
 </h2>
 
 <h2 align="center">
-  <img align='center' src="https://github.com/Elyabe/Elyabe/blob/master/images/portal-3.gif" width='200'>
+  <img align='center' src="https://github.com/Elyabe/Elyabe/blob/master/images/portal-3.gif" width='50%'>
 </h2>
