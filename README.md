@@ -83,8 +83,10 @@ I'm an enthusiastic Software Engineer and Problem Solver who was actively involv
 | <img width="120px" src="https://www.hmc.edu/about-hmc/wp-content/uploads/sites/2/2019/01/icpc19.png" /> <br /> ICPC | Dhaka Regionals <br /> Team: [BAIUST_RUNTIME_TERROR][icpc_2019] <br /> Rank: 114/190 |
  <img width="120px" src="https://codeforces.org/s/10391/images/codeforces-logo-with-telegram.png" /> <br />CF Rating |<img width="100%" src="https://pruvi007-apis.herokuapp.com/CF/samnoon" />
 
-
-[![Samnoons's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=samnoon&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+<!---Compititive Programming --->
+![](https://raw.githubusercontent.com/samnoon/codeforces-stats/main/output/max_rating.svg)
+![](https://raw.githubusercontent.com/samnoon/codeforces-stats/main/output/rating.svg)
+![](https://leetcard.jacoblin.cool/samnoon?theme=nord&font=Karma&ext=contest)
 
 </div>
 <h2 align="center">
