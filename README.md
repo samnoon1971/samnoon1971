@@ -114,12 +114,3 @@ I'm an enthusiastic Software Engineer and Problem Solver who was actively involv
 <a href="https://codeforces.com/profile/samnoon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="samnoon" height="30" width="40" /></a>
 
 
-
-</div>
-<h2 align="center">
-  <img align='center' src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width=50%>
-</h2>
-
-<h2 align="center">
-  <img align='center' src="https://github.com/Elyabe/Elyabe/blob/master/images/portal-3.gif" width='50%'>
-</h2>
