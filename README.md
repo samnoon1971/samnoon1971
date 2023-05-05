@@ -42,8 +42,7 @@ I'm an enthusiastic Software Engineer and Problem Solver who was actively involv
 </h2>
 <div align="center">
 	<img height="137px"
-	     src="https://so-stats-kurt-liao.vercel.app/api?user=8188682" />
-
+	     src="https://stackoverflow-stats-one.vercel.app/api?user=8188682" />
 
 </div>
 
