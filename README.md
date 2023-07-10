@@ -72,6 +72,21 @@ I'm an enthusiastic Software Engineer and Problem Solver who was actively involv
 
 
 </div>
+
+
+
+<h2 align="center">
+🤝 CP Profiles </h2>
+
+<div align="center">
+
+
+<a href="https://www.codechef.com/users/smabrar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="smabrar" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/samnoonabrar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="samnoonabrar" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/samnoon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="samnoon" height="30" width="40" /></a>
+
+
+
 <h2 align="center">
 ⚔️ Competitive Programming
 </h2>
@@ -101,15 +116,3 @@ I'm an enthusiastic Software Engineer and Problem Solver who was actively involv
 ![](https://github-readme-stats.vercel.app/api?username=samnoon1971&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samnoon1971&theme=nightowl&hide_border=false)<br/>
 </div>
-
-<h2 align="center">
-🤝 CP Profiles </h2>
-
-<div align="center">
-
-
-<a href="https://www.codechef.com/users/smabrar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="smabrar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/samnoonabrar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="samnoonabrar" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/samnoon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="samnoon" height="30" width="40" /></a>
-
-
