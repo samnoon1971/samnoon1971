@@ -16,18 +16,30 @@ I'm an enthusiastic Software Engineer and Problem Solver who was actively involv
 
 
 </div>
-<div align="center">
-  <a href="https://github.com/samnoon1971" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/samnoon1971?label=Github%20followers&style=for-the-badge">
-  </a> <br> <br>
-  <a href="https://github.com/samnoon1971" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=samnoon1971&label=Views&color=green&style=flat-square" alt="views on github" />
+<p align="center">
+  <a href="https://github.com/samnoon1971" >
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/samnoon1971?label=Github%20followers">
+  </a> 
+  <a href="https://github.com/samnoon1971" >
+    <img src="https://komarev.com/ghpvc/?username=samnoon1971&label=Views&color=green" alt="views on github" />
   </a>
-	
 
 
-  </h3> 
-  </div>
+ <a href="https://codeforces.com/profile/samnoon">
+    <img src="https://raw.githubusercontent.com/samnoon1971/codeforces-stats/main/output/rating.svg" alt="CF rating" />
+  </a>
+  
+ 
+  <a href="https://leetcode.com/samnoon/">
+    <img src="https://cp-logo.vercel.app/leetcode/samnoon" alt="Leet code rating" />
+  </a>
+ 
+  <a href="https://stackoverflow.com/users/5921662/sudipto">
+    <img alt="Stack Overflow Reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/8188682?color=orange&label=reputation&logo=stackoverflow">
+  </a>	
+
+
+  </p>
 <h2 align="center">
 ✍️Random Dev Quote
 </h2>
@@ -37,14 +49,6 @@ I'm an enthusiastic Software Engineer and Problem Solver who was actively involv
 
 </div>
 
-<h2 align="center">
-	🤝 Stackoverflow
-</h2>
-<div align="center">
-	<img height="137px"
-	     src="https://stackoverflow-stats-one.vercel.app/api?user=8188682&theme=light" />
-
-</div>
 
 
 
@@ -66,15 +70,14 @@ I'm an enthusiastic Software Engineer and Problem Solver who was actively involv
 	
 
 ![CPU](https://img.shields.io/badge/AMD-Ryzen_5_3500X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-<br> 
 	
 ![GPU](https://img.shields.io/badge/NVIDIA-GeForce_GTX_1050_TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white) 
 
+	
 ![RAM Icon](https://img.shields.io/badge/RAM-32%20GB-blue?style=flat&logo=ram&logoColor=white)
 
 
 ![PSU Icon](https://img.shields.io/badge/PSU-650%20Watt-orange?style=flat&logo=power&logoColor=white)
-
 
 </div>
 
