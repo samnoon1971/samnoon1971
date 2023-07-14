@@ -3,19 +3,6 @@
 <div align="center">
 
 
-
-
-I'm an enthusiastic Software Engineer and Problem Solver who was actively involved in Competitive Programming. I participated in several ACM ICPC-Style National Contests. I like reading blogs and listening podcast/webinars. 
-
-- :office: &nbsp;I'm currently working at **BroTecs Technologies Limited**
-- :seedling: &nbsp;I'm learning DevOps currently.
-- 📫 Find out more about me & feel free to connect with me here:
-
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/samnoon.abrar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samnoon) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@samnoonabrar) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/samnoonabrar) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Samnoon-Abrar) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/samnoonabrar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8188682) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/samnoonabrar) 
-
-
-</div>
 <p align="center">
   <a href="https://github.com/samnoon1971" >
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/samnoon1971?label=Github%20followers">
@@ -40,6 +27,19 @@ I'm an enthusiastic Software Engineer and Problem Solver who was actively involv
 
 
   </p>
+
+I'm an enthusiastic Software Engineer and Problem Solver who was actively involved in Competitive Programming. I participated in several ACM ICPC-Style National Contests. I like reading blogs and listening podcast/webinars. 
+
+- :office: &nbsp;I'm currently working at **BroTecs Technologies Limited**
+- :seedling: &nbsp;I'm learning DevOps currently.
+- 📫 Find out more about me & feel free to connect with me here:
+
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/samnoon.abrar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samnoon) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@samnoonabrar) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/samnoonabrar) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Samnoon-Abrar) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/samnoonabrar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8188682) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/samnoonabrar) 
+
+
+</div>
+
 <h2 align="center">
 ✍️Random Dev Quote
 </h2>
