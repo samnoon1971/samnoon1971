@@ -28,11 +28,11 @@
 
   </p>
 
-I'm an enthusiastic Software Engineer and Problem Solver who was actively involved in Competitive Programming. I participated in several ACM ICPC-Style National Contests. I like reading blogs and listening podcasts/webinars. 
+I'm an enthusiastic Software Engineer and Problem Solver who was actively involved in Competitive Programming. I participated in several ACM ICPC-Style National Contests. I like reading blogs and listening to podcasts/webinars. 
 
  :office: &nbsp;I'm currently working at **BroTecs Technologies Limited**
  
- :seedling: &nbsp;I'm learning DevOps currently.
+ :seedling: &nbsp; I'm learning DevOps currently.
  
  📫 Find out more about me & feel free to connect with me here:
 
