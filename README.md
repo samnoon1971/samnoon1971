@@ -1,5 +1,6 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
   <link rel="stylesheet" href="./style.css">
+  <link rel="stylesheet" href="./bootstrap_v5.css">
 
 <h2 align="center"> Hi there 👋 , I'm Samnoon <br/></h2> 
 <div align="center">
