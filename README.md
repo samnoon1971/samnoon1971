@@ -100,7 +100,7 @@ I'm an enthusiastic Software Engineer and Problem Solver who was actively involv
 
 ![](https://raw.githubusercontent.com/samnoon1971/codeforces-stats/main/output/light_card.svg)
 <br>
-![](https://leetcard.jacoblin.cool/samnoon?theme=nord&font=Karma&ext=contest)
+![](https://leetcard.jacoblin.cool/samnoon?theme=light&font=Karma&ext=contest)
 
 </div>
 <h2 align="center">
