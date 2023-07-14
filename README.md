@@ -74,10 +74,10 @@ I'm an enthusiastic Software Engineer and Problem Solver who was actively involv
 ![GPU](https://img.shields.io/badge/NVIDIA-GeForce_GTX_1050_TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white) 
 
 	
-![RAM Icon](https://img.shields.io/badge/RAM-32%20GB-blue?style=flat&logo=ram&logoColor=white)
+![RAM Icon](https://img.shields.io/badge/RAM-Corsair_Vengeance_LPX_32%20GB-blue?style=flat&logo=ram&logoColor=white)
 
 
-![PSU Icon](https://img.shields.io/badge/PSU-650%20Watt-orange?style=flat&logo=power&logoColor=white)
+![PSU Icon](https://img.shields.io/badge/PSU-Corsair_CV650_80+_Bronze-orange?style=flat&logo=power&logoColor=white)
 
 </div>
 
