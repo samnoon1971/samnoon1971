@@ -33,7 +33,7 @@ I'm an enthusiastic Software Engineer and Problem Solver who was actively involv
 </h2>
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_macchiato)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
 
 </div>
 
