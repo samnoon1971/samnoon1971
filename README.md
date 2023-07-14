@@ -28,7 +28,7 @@
 
   </p>
 
-I'm an enthusiastic Software Engineer and Problem Solver who was actively involved in Competitive Programming. I participated in several ACM ICPC-Style National Contests. I like reading blogs and listening podcast/webinars. 
+I'm an enthusiastic Software Engineer and Problem Solver who was actively involved in Competitive Programming. I participated in several ACM ICPC-Style National Contests. I like reading blogs and listening podcasts/webinars. 
 
 - :office: &nbsp;I'm currently working at **BroTecs Technologies Limited**
 - :seedling: &nbsp;I'm learning DevOps currently.
@@ -45,7 +45,7 @@ I'm an enthusiastic Software Engineer and Problem Solver who was actively involv
 </h2>
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 </div>
 
