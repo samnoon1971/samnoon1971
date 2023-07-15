@@ -32,7 +32,7 @@ I'm an enthusiastic Software Engineer and Problem Solver who was actively involv
 
  :office: &nbsp;I'm currently working at **BroTecs Technologies Limited**
  
- :seedling: &nbsp; I'm learning DevOps.
+ :seedling: &nbsp; I'm learning DevOps
  
  📫 Find out more about me & feel free to connect with me here:
 
