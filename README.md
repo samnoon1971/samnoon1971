@@ -42,14 +42,7 @@ I'm an enthusiastic Software Engineer and Problem Solver who was actively involv
 
 </div>
 
-<h2 align="center">
-✍️Random Dev Quote
-</h2>
-<div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-</div>
 
 <h2 align="center">
  💼 Professional Experience
@@ -63,6 +56,18 @@ I'm an enthusiastic Software Engineer and Problem Solver who was actively involv
  
  **Intern** at BroTecs Technologies Ltd. (September 2021 to February 2022)
 </div>
+
+
+<h2 align="center">
+✍️Random Dev Quote
+</h2>
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+</div>
+
+
 
 <h2 align="center">
 💻 Tech Stack
