@@ -50,11 +50,11 @@ I'm an enthusiastic Software Engineer and Problem Solver who was actively involv
 
 <div align="center">
 	
- **Software Engineer** at BroTecs Technologies Ltd. (March 2023 to Present)
+ **Software Engineer** at BroTecs Technologies Ltd. (_March 2023 to Present_)
  
- **Jr. Software Engineer** at BroTecs Technologies Ltd. (March 2022 to February 2023)
+ **Jr. Software Engineer** at BroTecs Technologies Ltd. (_March 2022 to February 2023_)
  
- **Intern** at BroTecs Technologies Ltd. (September 2021 to February 2022)
+ **Intern** at BroTecs Technologies Ltd. (_September 2021 to February 2022_)
 </div>
 
 
