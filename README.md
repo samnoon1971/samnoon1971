@@ -109,7 +109,7 @@ I'm an enthusiastic Software Engineer and Problem Solver who was actively involv
 ![Node](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
   
-### Other Tools
+### Other
 
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-%23080B8C.svg?style=flat-square&logo=php&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
