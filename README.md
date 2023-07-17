@@ -147,6 +147,9 @@ I'm an enthusiastic Software Engineer and Problem Solver who was actively involv
 
 </div>
 
+
+![Samnoon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samnoon1971&bg_color=ffffff&color=000000&line=24292e&point=24292e&area=true&hide_border=true)
+
 <h2 align="center">
 🖥️ My Current Workstation Specification
 </h2>
