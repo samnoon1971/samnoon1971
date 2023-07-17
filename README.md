@@ -48,28 +48,51 @@ I'm an enthusiastic Software Engineer and Problem Solver who was actively involv
 
 
 
+
+
+
 <h2 align="center">
  💼 Professional Experience
 </h2>
 
 <div align="center">
 	
- **Software Engineer** at BroTecs Technologies Ltd. (_March 2023 to Present_)
+ **Software Engineer** at BroTecs Technologies Ltd. _(March 2023 to Present)_
  
- **Jr. Software Engineer** at BroTecs Technologies Ltd. (_March 2022 to February 2023_)
+ **Jr. Software Engineer** at BroTecs Technologies Ltd. _(March 2022 to February 2023)_
  
- **Intern** at BroTecs Technologies Ltd. (_September 2021 to February 2022_)
+ **Intern** at BroTecs Technologies Ltd. _(September 2021 to February 2022)_
+ 
 </div>
 
 
+
+
+
+
+
+
+
+
+
 <h2 align="center">
-✍️Random Dev Quote
+✍️ Random Dev Quote
 </h2>
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 </div>
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -132,6 +155,8 @@ I'm an enthusiastic Software Engineer and Problem Solver who was actively involv
 
 
 
+
+
 <h2 align="center">
 🏆 Competitive Programming
 </h2>
@@ -148,7 +173,24 @@ I'm an enthusiastic Software Engineer and Problem Solver who was actively involv
 </div>
 
 
-![Samnoon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samnoon1971&bg_color=ffffff&color=000000&line=24292e&point=24292e&area=true&hide_border=true)
+
+
+
+
+
+
+<h2 align="center">
+🤝 Github Stats
+</h2>
+
+<div align="center">
+	
+![](https://github-readme-activity-graph.vercel.app/graph?username=samnoon1971&bg_color=ffffff&color=000000&line=24292e&point=24292e&area=true&hide_border=true)
+
+</div>
+
+
+
 
 <h2 align="center">
 🖥️ My Current Workstation Specification
@@ -164,8 +206,10 @@ I'm an enthusiastic Software Engineer and Problem Solver who was actively involv
 ![HDD Icon](https://img.shields.io/badge/HDD-Toshiba_DT01ACA200_SATA_2TB-CC0000?style=flat&logo=toshiba&logoColor=white)
 ![PSU Icon](https://img.shields.io/badge/PSU-Corsair_CV650_80+_Bronze-2d5f74?style=flat&logo=corsair&logoColor=white)
 
-
 </div>
+
+
+
 
 
 </div>
