@@ -51,19 +51,6 @@ I'm an enthusiastic Software Engineer and Problem Solver who was actively involv
 
 
 
-<h2 align="center">
- 💼 Professional Experience
-</h2>
-
-<div align="center">
-	
- **Software Engineer** at BroTecs Technologies Ltd. _(March 2023 to Present)_
- 
- **Jr. Software Engineer** at BroTecs Technologies Ltd. _(March 2022 to February 2023)_
- 
- **Intern** at BroTecs Technologies Ltd. _(September 2021 to February 2022)_
- 
-</div>
 
 
 
