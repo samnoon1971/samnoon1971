@@ -171,8 +171,18 @@ I'm an enthusiastic Software Engineer and Problem Solver who was actively involv
 </h2>
 
 <div align="center">
-	
-![](https://github-readme-activity-graph.vercel.app/graph?username=samnoon1971&bg_color=ffffff&color=000000&line=24292e&point=24292e&area=true&hide_border=true)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=samnoon1971&bg_color=ffffff&color=000000&line=24292e&point=24292e&area=true&hide_border=false)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samnoon1971&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samnoon1971&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samnoon1971&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samnoon1971&theme=default&utcOffset=8)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samnoon1971&theme=default)
 
 </div>
 
@@ -189,9 +199,10 @@ I'm an enthusiastic Software Engineer and Problem Solver who was actively involv
 ![GPU](https://img.shields.io/badge/NVIDIA-GeForce_GTX_1050_TI_4GB-76B900?style=for-the-badge&logo=nvidia&logoColor=white) 
 
 ![RAM Icon](https://img.shields.io/badge/RAM-Corsair_Vengeance_LPX_32GB-2d5f74?style=flat&logo=corsair&logoColor=white)
+![PSU Icon](https://img.shields.io/badge/PSU-Corsair_CV650_80+_Bronze-2d5f74?style=flat&logo=corsair&logoColor=white)
+
 ![SSD Icon](https://img.shields.io/badge/SSD-Samsung_980_NVMe_500GB-blue?style=flat&logo=samsung&logoColor=white)
 ![SSD Icon](https://img.shields.io/badge/SSD-MSI_Spatium_S270_SATA_960GB-EB1D24?style=flat&logo=msi&logoColor=white)
-![PSU Icon](https://img.shields.io/badge/PSU-Corsair_CV650_80+_Bronze-2d5f74?style=flat&logo=corsair&logoColor=white)
 
 </div>
 
