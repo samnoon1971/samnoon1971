@@ -149,7 +149,7 @@ I'm an enthusiastic Software Engineer and Problem Solver who was actively involv
 </h2>
 <div align="center">
 
-| Competition Name| Achievements |
+| Competition Name| Participation |
 | :----- | :----: |
 | <img width="120px" src="https://www.hmc.edu/about-hmc/wp-content/uploads/sites/2/2019/01/icpc19.png" />  | ACM ICPC Dhaka Regional Contest 2019 <br /> Team: BAIUST_RUNTIME_TERROR  |
 | <img width="120px" src="https://www.hmc.edu/about-hmc/wp-content/uploads/sites/2/2019/01/icpc19.png" />  | ACM ICPC Dhaka Regional Contest 2018 <br /> Team: BAIUST_DELTA  |
