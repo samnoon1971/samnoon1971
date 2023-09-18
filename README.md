@@ -195,8 +195,8 @@ I'm an enthusiastic Software Engineer and Problem Solver who was actively involv
 
 <div align="center">
 
-![CPU](https://img.shields.io/badge/AMD-Ryzen_5_3500X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![GPU](https://img.shields.io/badge/NVIDIA-GeForce_GTX_1050_TI_4GB-76B900?style=for-the-badge&logo=nvidia&logoColor=white) 
+![CPU](https://img.shields.io/badge/CPU-AMD_Ryzen_5_3500X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![GPU](https://img.shields.io/badge/GPU-NVIDIA_GeForce_GTX_1050_TI_4GB-76B900?style=for-the-badge&logo=nvidia&logoColor=white) 
 
 ![RAM Icon](https://img.shields.io/badge/RAM-Corsair_Vengeance_LPX_32GB-2d5f74?style=flat&logo=corsair&logoColor=white)
 ![PSU Icon](https://img.shields.io/badge/PSU-Corsair_CV650_80+_Bronze-2d5f74?style=flat&logo=corsair&logoColor=white)
