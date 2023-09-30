@@ -1,8 +1,6 @@
 
 [![Contribute in the browser](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/samnoon1971/samnoon1971)
 
-
-
 <h2 align="center"> Hi there 👋 , I'm Samnoon <br/></h2> 
 <div align="center">
 
@@ -82,7 +80,6 @@ I'm an enthusiastic Software Engineer and Problem Solver who was actively involv
 
 
 
-
 <h2 align="center">
 💻 Tech Stack
 </h2>
@@ -140,10 +137,6 @@ I'm an enthusiastic Software Engineer and Problem Solver who was actively involv
 
 
 
-
-
-
-
 <h2 align="center">
 🏆 Competitive Programming
 </h2>
@@ -161,16 +154,16 @@ I'm an enthusiastic Software Engineer and Problem Solver who was actively involv
 
 
 
-
-
-
-
-
 <h2 align="center">
-🤝 Github Stats
+🤝 Open Source Contributions
 </h2>
 
+
 <div align="center">
+
+
+[![samnoon's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8188682)](https://stackoverflow.com/users/8188682/samnoon)
+
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=samnoon1971&bg_color=ffffff&color=000000&line=24292e&point=24292e&area=true&hide_border=false)
 
