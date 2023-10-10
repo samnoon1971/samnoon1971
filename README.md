@@ -162,7 +162,12 @@ I'm an enthusiastic Software Engineer and Problem Solver who was actively involv
 <div align="center">
 
 
-[![samnoon's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8188682)](https://stackoverflow.com/users/8188682/samnoon)
+[![samnoon's StackOverflow](https:/github-stackoverflow-readme.vercel.app/?userId=8188682)](https://stackoverflow.com/users/8188682/samnoon)
+
+
+
+
+
 
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=samnoon1971&bg_color=ffffff&color=000000&line=24292e&point=24292e&area=true&hide_border=false)
