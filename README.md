@@ -196,6 +196,9 @@ I'm an enthusiastic Software Engineer and Problem Solver who was actively involv
 ![PSU Icon](https://img.shields.io/badge/PSU-Corsair_CV650_80+_Bronze-2d5f74?style=flat&logo=corsair&logoColor=white)
 
 ![SSD Icon](https://img.shields.io/badge/SSD-Samsung_980_NVMe_500GB-blue?style=flat&logo=samsung&logoColor=white)
+
+
+![SSD Icon](https://img.shields.io/badge/SSD-Team_EX2_SATA_2TB-blue?style=flat&logoColor=white)
 ![SSD Icon](https://img.shields.io/badge/SSD-MSI_Spatium_S270_SATA_960GB-EB1D24?style=flat&logo=msi&logoColor=white)
 
 </div>
