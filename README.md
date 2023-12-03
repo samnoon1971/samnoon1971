@@ -36,7 +36,7 @@ I'm an enthusiastic Software Engineer and Problem Solver who was actively involv
  
  :seedling: &nbsp; I'm exploring and working on Cloud and DevOps tech stacks which includes **Ansible, Terraform, CICD Pipelines (Jenkins), Docker, Kubernetes, Prometheus, Grafana,** etc.
 
- 📖 Interested in Distributed Systems, Cloud, Cyber Security
+ 📖 Interested in Distributed Systems, Cloud, Cybersecurity
 
  📫 Find out more about me & feel free to connect with me here:
 
