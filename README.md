@@ -201,6 +201,7 @@ I'm an enthusiastic Software Engineer and Problem Solver who was actively involv
 
 
 ![SSD Icon](https://img.shields.io/badge/SSD-Team_EX2_SATA_2TB-blue?style=flat&logoColor=white)
+![SSD Icon](https://img.shields.io/badge/SSD-Adata_SU650_SATA_1TB-003092?style=flat&logoColor=azureblue)
 ![SSD Icon](https://img.shields.io/badge/SSD-MSI_Spatium_S270_SATA_960GB-EB1D24?style=flat&logo=msi&logoColor=white)
 
 </div>
