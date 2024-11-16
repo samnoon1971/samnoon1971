@@ -19,9 +19,7 @@
   </a>
   
  
-  <a href="https://leetcode.com/samnoon/">
-    <img src="https://cp-logo.vercel.app/leetcode/samnoon" alt="Leet code rating" />
-  </a>
+
  
   <a href="https://stackoverflow.com/users/8188682/samnoon">
     <img alt="Stack Overflow Reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/8188682?color=orange&label=reputation&logo=stackoverflow">
