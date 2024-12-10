@@ -34,7 +34,7 @@ I'm an enthusiastic Software Engineer and Problem Solver who was actively involv
  
  :seedling: &nbsp; I'm exploring and working on Cloud and DevOps tech stacks which includes **Amazon Web Services (AWS), Ansible, Terraform, Jenkins, Docker, Kubernetes, Vagrant** etc.
 
- 📖 Interested in *Open Source Projects, Distributed Systems, DevSecOps*
+ 📖 Interested in *System Design, Open Source Projects, Distributed Systems, DevSecOps*
 
  📫 Find out more about me & feel free to connect with me here:
 
