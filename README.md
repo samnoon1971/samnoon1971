@@ -32,9 +32,9 @@ I'm an enthusiastic Software Engineer and Problem Solver who was actively involv
 
  :office: &nbsp;I'm currently working at **BroTecs Technologies Limited**
  
- :seedling: &nbsp; I'm exploring and working on Cloud and DevOps tech stacks which includes **Ansible, Terraform, CICD Pipelines (Jenkins), Docker, Kubernetes, Prometheus, Grafana,** etc.
+ :seedling: &nbsp; I'm exploring and working on Cloud and DevOps tech stacks which includes **Amazon Web Services (AWS), Ansible, Terraform, Jenkins, Docker, Kubernetes, Vagrant** etc.
 
- 📖 Interested in Distributed Systems, Cloud, Cybersecurity
+ 📖 Interested in Open Source Projects, Distributed Systems, Cloud, Cybersecurity
 
  📫 Find out more about me & feel free to connect with me here:
 
