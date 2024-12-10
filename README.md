@@ -33,6 +33,9 @@ I'm an enthusiastic Software Engineer and Problem Solver, with a passion for des
 I enjoy staying updated with the latest trends and technologies by reading blogs and tuning into podcasts and webinars. My focus is on building reliable, maintainable software solutions that make an impact.
 
 Let’s connect and collaborate on innovative projects! 🚀
+
+
+
  :office: &nbsp;I'm currently working at **BroTecs Technologies Limited**
  
  :seedling: &nbsp; I'm exploring and working on Cloud and DevOps tech stacks which includes **Amazon Web Services (AWS), Ansible, Terraform, Jenkins, Docker, Kubernetes, Vagrant** etc.
