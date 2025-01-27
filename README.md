@@ -97,7 +97,6 @@ Let’s connect and collaborate on innovative projects! 🚀
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 
 
@@ -105,10 +104,8 @@ Let’s connect and collaborate on innovative projects! 🚀
 
 ### Web Tools, Frameworks & Libraries
 
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
 
 
 ### DevOps
@@ -118,6 +115,7 @@ Let’s connect and collaborate on innovative projects! 🚀
 ![Terraform](https://img.shields.io/badge/Terraform-%23623CE4.svg?style=flat-square&logo=terraform&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/Vagrant-%231563FF.svg?style=flat-square&logo=vagrant&logoColor=white)
 ![Vault](https://img.shields.io/badge/Vault-%23076787.svg?style=flat-square&logo=vault&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=flat&logo=prometheus&labelColor=000000)
 
 ### Databases
 
