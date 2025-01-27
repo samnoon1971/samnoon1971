@@ -102,7 +102,7 @@ Let’s connect and collaborate on innovative projects! 🚀
 
 
 
-### Web Tools, Frameworks & Libraries
+### Web Frameworks
 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) 
