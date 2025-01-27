@@ -94,50 +94,50 @@ Let’s connect and collaborate on innovative projects! 🚀
 	
 ### Programming Languages
 
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![C](https://img.shields.io/badge/-C-00599C?logo=C&logoColor=white&style=flat)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=C%2B%2B&logoColor=white&style=flat)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=PHP&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=Javascript&logoColor=black&style=flat)
 
 
 
 
 ### Web Frameworks
 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=Express&logoColor=%2361DAFB) 
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=Laravel&logoColor=white) 
 
 
 ### Continous Integration Tools
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=Jenkins&logoColor=white)
 
 ### Infrastructures
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=Docker&logoColor=white)
 ![Amazon Web Services](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 
 ### Shell
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
 ### IaC Tools
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat-square&logo=ansible&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%23623CE4.svg?style=flat-square&logo=terraform&logoColor=white)
-![Vagrant](https://img.shields.io/badge/Vagrant-%231563FF.svg?style=flat-square&logo=vagrant&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat-square&logo=Ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%23623CE4.svg?style=flat-square&logo=Terraform&logoColor=white)
+![Vagrant](https://img.shields.io/badge/Vagrant-%231563FF.svg?style=flat-square&logo=Vagrant&logoColor=white)
 
 ### Observability Tools
-![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=flat&logo=prometheus&labelColor=000000)
+![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=flat&logo=Prometheus&labelColor=000000)
 ![Grafana](https://img.shields.io/badge/Grafana-black?style=flat&logo=Grafana)
 
 ### Storage
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=Mongodb&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=Postgresql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=Mysql&logoColor=white&style=flat)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat-square&logo=Redis&logoColor=white)
 
 ### Web Application Platforms
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white)
-![Node](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=Apache&logoColor=white)
+![Node](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=Node.js&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=Nginx&logoColor=white)
   
 </div>
 
