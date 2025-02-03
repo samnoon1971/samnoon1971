@@ -6,12 +6,9 @@
 
 
 <p align="center">
-  <a href="https://github.com/samnoon1971" >
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/samnoon1971?label=Github%20followers">
+  <a href="https://github.com/samnoonabrar" >
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/samnoonabrar?label=Github%20followers">
   </a> 
-  <a href="https://github.com/samnoon1971" >
-    <img src="https://komarev.com/ghpvc/?username=samnoon1971&label=Views&color=green" alt="views on github" />
-  </a>
 
 
  <a href="https://codeforces.com/profile/samnoon">
