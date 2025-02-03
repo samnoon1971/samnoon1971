@@ -1,5 +1,5 @@
 
-[![Contribute in the browser](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/samnoon1971/samnoon1971)
+[![Contribute in the browser](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/samnoonabrar/samnoonabrar)
 
 <h2 align="center"> Hi there 👋 <br/></h2> 
 <div align="center">
@@ -12,7 +12,7 @@
 
 
  <a href="https://codeforces.com/profile/samnoon">
-    <img src="https://raw.githubusercontent.com/samnoon1971/codeforces-stats/main/output/rating.svg" alt="CF rating" />
+    <img src="https://raw.githubusercontent.com/samnoonabrar/codeforces-stats/main/output/rating.svg" alt="CF rating" />
   </a>
   
  
@@ -151,7 +151,7 @@ Let’s connect and collaborate on innovative projects! 🚀
 | <img width="120px" src="https://www.hmc.edu/about-hmc/wp-content/uploads/sites/2/2019/01/icpc19.png" />  | ACM ICPC Dhaka Regional Contest 2018 <br /> Team: BAIUST_DELTA  |
 
 
-![](https://raw.githubusercontent.com/samnoon1971/codeforces-stats/main/output/light_card.svg)
+![](https://raw.githubusercontent.com/samnoonabrar/codeforces-stats/main/output/light_card.svg)
 
 </div>
 
@@ -169,17 +169,17 @@ Let’s connect and collaborate on innovative projects! 🚀
 ![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=8188682)
 
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=samnoon1971&bg_color=ffffff&color=000000&line=24292e&point=24292e&area=true&hide_border=false)
+![](https://github-readme-activity-graph.vercel.app/graph?username=samnoonabrar&bg_color=ffffff&color=000000&line=24292e&point=24292e&area=true&hide_border=false)
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samnoon1971&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samnoon1971&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samnoonabrar&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samnoonabrar&theme=default)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samnoon1971&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samnoon1971&theme=default&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samnoonabrar&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samnoonabrar&theme=default&utcOffset=8)
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samnoon1971&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samnoonabrar&theme=default)
 
 </div>
 
@@ -213,5 +213,5 @@ Let’s connect and collaborate on innovative projects! 🚀
 
 </div>
 <h2 align="center">
-  <img align='center' src="https://github.com/samnoon1971/samnoon1971/blob/main/portal-3.gif" width='200'>
+  <img align='center' src="https://github.com/samnoonabrar/samnoonabrar/blob/main/portal-3.gif" width='200'>
 </h2>
